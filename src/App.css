@@ -1,0 +1,40 @@
+body {
+  background-color: #ff9900;
+  font-family: sans-serif;
+  color: white;
+  text-align: center;
+  width: 100%;
+  margin: 200px auto;
+}
+
+table {
+  margin: 30px auto;
+  border-collapse: collapse;
+  width: 80%;
+  max-width: 600px;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 10px;
+  border: 1px solid white;
+}
+
+th {
+  background-color: #ff7f00;
+}
+
+td:first-child {
+  font-weight: bold;
+}
+
+.footnote {
+  margin-top: 10px;
+  text-align: center;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
